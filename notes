@@ -1,0 +1,8 @@
+ng serve
+
+ng generate component xyz # new Component
+ng add @angular/material # Angular Material
+ng add @angular/pwa # Add PWA Support
+ng add _____ # Add Dependency
+ng test # Run and watch Tests
+ng build # Build for production
