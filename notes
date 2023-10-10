@@ -6,3 +6,13 @@ ng add @angular/pwa # Add PWA Support
 ng add _____ # Add Dependency
 ng test # Run and watch Tests
 ng build # Build for production
+
+
+==================
+
+ng generate component components/header
+
+ng add @fortawesome/angular-fontawesome
+npm i @fortawesome/angular-fontawesome
+
+ng generate service services/task
